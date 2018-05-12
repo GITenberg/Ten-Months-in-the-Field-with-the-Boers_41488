@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41488#Ten-Months-in-the-Field-with-the-Boers
 gutenberg_issued: '2012-11-24'
 gutenberg_type: Text
 identifiers:
